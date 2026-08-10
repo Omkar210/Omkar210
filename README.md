@@ -6,11 +6,7 @@
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+AI-powered+systems+that+solve+real+problems;Turning+messy+data+into+scalable+solutions;Python+%E2%86%92+Data+%E2%86%92+AI%2FML+%E2%86%92+Engineering" alt="Typing SVG" /></a>
 
-<!-- Profile Views & Followers -->
-<br/>
-<img src="https://komarev.com/ghpvc/?username=Omkar210&label=Profile%20Views&color=1f6feb&style=for-the-badge" alt="Profile Views" />
-&nbsp;
-<a href="https://github.com/Omkar210?tab=followers"><img src="https://img.shields.io/github/followers/Omkar210?label=Followers&style=for-the-badge&color=238636&labelColor=0d1117" alt="Followers" /></a>
+
 
 </div>
 
@@ -391,6 +387,12 @@ class Omkar:
 ### 💡 &nbsp;*"The best way to predict the future is to build it."*
 
 <br/>
+
+<img src="https://komarev.com/ghpvc/?username=Omkar210&label=Profile%20Views&color=1f6feb&style=flat" alt="Profile Views" />
+&nbsp;&nbsp;
+<a href="https://github.com/Omkar210?tab=followers"><img src="https://img.shields.io/github/followers/Omkar210?label=Followers&style=flat&color=238636&labelColor=0d1117" alt="Followers" /></a>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" />
 
