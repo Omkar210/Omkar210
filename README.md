@@ -270,24 +270,6 @@ graph LR
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
-<<<<<<< HEAD
-=======
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Omkar210&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff&cache_seconds=86400" alt="GitHub Stats" />
-&nbsp;
-<img width="49%" src="https://streak-stats.demolab.com/?user=Omkar210&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar210&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" alt="Top Languages" />
-
-</div>
-
-<br/>
-
-<!-- GitHub Activity Graph -->
-<div align="center">
->>>>>>> a16be72045629e099e61146a7532ac1899458f5a
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omkar210&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" width="95%" alt="Activity Graph" />
 </div>
 
