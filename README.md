@@ -272,6 +272,8 @@ graph LR
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
+<<<<<<< HEAD
+=======
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Omkar210&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff&cache_seconds=86400" alt="GitHub Stats" />
 &nbsp;
@@ -287,6 +289,7 @@ graph LR
 
 <!-- GitHub Activity Graph -->
 <div align="center">
+>>>>>>> a16be72045629e099e61146a7532ac1899458f5a
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omkar210&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" width="95%" alt="Activity Graph" />
 </div>
 
