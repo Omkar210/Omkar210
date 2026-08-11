@@ -17,7 +17,7 @@
 <br/>
 
 <!-- About Section -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+## 👨‍💻 &nbsp;About Me
 
 ```yaml
 name: Omkar Gangamwar
@@ -150,26 +150,26 @@ current_status:
 <tr>
 
 <td width="50%" valign="top">
-<h3 align="center">🤖 Deepfake / Image Forgery Detection</h3>
+<h3 align="center"><a href="https://github.com/Omkar210/PatentPilot-AI-Patent-Intelligence-System">🧠 PatentPilot – AI Patent Intelligence</a></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/CNN-FF6F61?style=flat-square" />
-<img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat-square" />
-</p>
-<p>
-Image manipulation detection system using CNN-based models with Error Level Analysis (ELA) preprocessing. Achieved <strong>~96% accuracy</strong> during experimentation.
-</p>
-</td>
-
-<td width="50%" valign="top">
-<h3 align="center">🌾 Agribot – Agricultural Chatbot</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%2FML-FF6F61?style=flat-square" />
 <img src="https://img.shields.io/badge/NLP-5C3EE8?style=flat-square" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 </p>
 <p>
-Retrieval-based chatbot using NLP and Deep Learning with intent classification via Artificial Neural Networks. Built with Python and Streamlit/Tkinter.
+AI-powered system to navigate the dense landscape of AI/ML patents. Analyzes and extracts insights from technical intellectual property documents.
+</p>
+</td>
+
+<td width="50%" valign="top">
+<h3 align="center"><a href="https://github.com/Omkar210/cloud-compliance-system">☁️ Cloud Compliance System</a></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud-4285F4?style=flat-square" />
+<img src="https://img.shields.io/badge/Anomaly%20Detection-EF4444?style=flat-square" />
+</p>
+<p>
+AI-powered cloud compliance monitoring platform with anomaly detection, risk assessment, and automated compliance checks.
 </p>
 </td>
 
@@ -177,26 +177,26 @@ Retrieval-based chatbot using NLP and Deep Learning with intent classification v
 <tr>
 
 <td width="50%" valign="top">
-<h3 align="center">📊 Netflix Data Analysis</h3>
+<h3 align="center"><a href="https://github.com/Omkar210/SLM-for-Edge-device">🔊 SLM for Edge Device</a></h3>
 <p align="center">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" />
-<img src="https://img.shields.io/badge/Analytics-00D4AA?style=flat-square" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/BiGRU--CRF-10B981?style=flat-square" />
+<img src="https://img.shields.io/badge/NLU-8B5CF6?style=flat-square" />
 </p>
 <p>
-Analyzed <strong>8,800+ Netflix titles</strong> using PostgreSQL with joins, subqueries, aggregations and window functions to solve business-oriented analytical problems.
+Offline voice/text assistant brain — a lightweight, fully on-device joint NLU model powered by Bidirectional GRU and Conditional Random Fields.
 </p>
 </td>
 
 <td width="50%" valign="top">
-<h3 align="center">📈 HR Analytics Dashboard</h3>
+<h3 align="center"><a href="https://github.com/Omkar210/Deepfake-Image-Detection">🤖 Deepfake Image Detection</a></h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Analytics-009688?style=flat-square" />
-<img src="https://img.shields.io/badge/Dashboard-1f6feb?style=flat-square" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/CNN-FF6F61?style=flat-square" />
 </p>
 <p>
-Interactive Power BI dashboard for employee attrition analysis across <strong>1,400+ records</strong>. Identified patterns in employee satisfaction and attrition.
+CNN-based deepfake image detection system trained on diverse datasets, evaluated with accuracy, precision, recall, and F1-score.
 </p>
 </td>
 
@@ -204,26 +204,26 @@ Interactive Power BI dashboard for employee attrition analysis across <strong>1,
 <tr>
 
 <td width="50%" valign="top">
-<h3 align="center">💬 Session-Based Group Chat</h3>
+<h3 align="center"><a href="https://github.com/Omkar210/Log_ops">📊 Log_ops – Observability Platform</a></h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Log%20Analytics-009688?style=flat-square" />
+<img src="https://img.shields.io/badge/Observability-1f6feb?style=flat-square" />
+<img src="https://img.shields.io/badge/Monitoring-F59E0B?style=flat-square" />
 </p>
 <p>
-WhatsApp-style group communication platform with session codes, persistent chat history via MongoDB, and support for file, image & audio sharing.
+Observability and log analytics platform for monitoring, searching, and analyzing application logs at scale.
 </p>
 </td>
 
 <td width="50%" valign="top">
-<h3 align="center">🛒 AI E-Commerce Platform</h3>
+<h3 align="center"><a href="https://github.com/Omkar210/Python-Practice">🐍 Python Practice</a></h3>
 <p align="center">
-<img src="https://img.shields.io/badge/RAG-00D4AA?style=flat-square" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/WhatsApp%20API-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/DSA-00D4AA?style=flat-square" />
+<img src="https://img.shields.io/badge/Problem%20Solving-F59E0B?style=flat-square" />
 </p>
 <p>
-AI-powered conversational shopping system with RAG-based responses via Google Gemini, WhatsApp integration through Meta API, and Google Sheets data management.
+Collection of Python solutions covering different types of programming problems and practice exercises.
 </p>
 </td>
 
@@ -268,39 +268,18 @@ graph LR
 
 <br/>
 
-<!-- Development Journey -->
-## 📈 &nbsp;My Development Journey
-
-```
-Python
-│
-├── Data Analysis ──────────► SQL / PostgreSQL / Power BI
-│
-├── Machine Learning ───────► Deep Learning / NLP / GenAI
-│
-├── Backend ────────────────► APIs / Node.js / Flask
-│
-└── Data Engineering ───────► Spark / Kafka / Airflow / Cloud
-```
-
-<br/>
-
----
-
-<br/>
-
 <!-- GitHub Stats -->
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Omkar210&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Omkar210&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff&cache_seconds=86400" alt="GitHub Stats" />
 &nbsp;
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Omkar210&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Omkar210&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar210&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar210&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" alt="Top Languages" />
 
 </div>
 
