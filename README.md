@@ -260,8 +260,6 @@ graph LR
 
 </div>
 
-> *I'm particularly interested in understanding how AI systems can work with large-scale data pipelines — rather than building isolated ML models.*
-
 <br/>
 
 ---
